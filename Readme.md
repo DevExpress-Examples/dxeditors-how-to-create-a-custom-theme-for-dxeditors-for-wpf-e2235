@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Window1.xaml](./CS/TestProject9.3/Window1.xaml) (VB: [Window1.xaml](./VB/TestProject9.3/Window1.xaml))
+* [Window1.xaml.cs](./CS/TestProject9.3/Window1.xaml.cs) (VB: [Window1.xaml](./VB/TestProject9.3/Window1.xaml))
+<!-- default file list end -->
 # DXEditors - How to create a custom theme for DXEditors for WPF
 
 
